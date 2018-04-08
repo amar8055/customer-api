@@ -8,4 +8,6 @@ import com.engine.customerapi.model.Customer;
 @Repository
 public interface CustomerRepository extends JpaRepository<Customer, Integer>{
 
+
+
 }
